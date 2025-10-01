@@ -1,0 +1,11 @@
+{
+  "name": "github-actions-security",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Niek Palm",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test specified\""
+  }
+}
